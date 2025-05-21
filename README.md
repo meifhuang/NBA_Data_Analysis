@@ -16,9 +16,10 @@ Column descriptions for the dataset is listed below:
 * FG% - Field goal percentage
 * 3P - 3 point field goals
 * 3PA - 3 point field goal attempts
+* 3P% - 3 point field goal attempts (3P / 3PA)
 * 2P - 2 point field goals
 * 2PA - 2 point field goal attempts
-* 2P% - 2 point field goal percentage
+* 2P% - 2 point field goal percentage (2P / 2PA)
 * eFG% - effective field goal percentage
 * FT - free throws
 * FTA - free throws attempts
@@ -55,12 +56,12 @@ How have Brunson’s scoring trends evolved throughout the 2024-2025 regular sea
 
 #### Jaron_eda.ipynb 
 
-Is there a relationship between Brunson’s steals and his fouls per game? - Jaron 
+Which offensive stat has the highest positive correlation on Jalen Brunson's +/-; Pts, 2p, 3p and Ast?
 
 #### Manuel_eda.ipynb
 Does Brunson perform better at home or on the road?
 
 #### Mei_eda.ipynb 
 
-Is there a relationship between Brunson’s performance (field goal, field goal attempts, free throws) and the outcome of the game? 
+Is there a relationship between Brunson’s performance (field goal, field goal%, free throws, game score) and the outcome of the game? 
 
