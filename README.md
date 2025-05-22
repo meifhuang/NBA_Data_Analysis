@@ -48,6 +48,7 @@ There are five Jupyter notebooks, each exploring a different question about Jale
 #### Chaya_eda.ipynb 
 
 Is there a relationship between Brunson’s play time (rounded down to minutes) and the Knicks winning?
+Yes, there is a thinly dispersed negative correlation relationship between Brunson's play time (minutes) and the Knicks winning. The more minutes he plays, the more likely the Knicks are to lose and the less he plays, he is likely to win. This is evident from the data and graph correlation which shows that when Brunson plays more minutes, the Knicks tend to win and lose at the different time frequency. For example, the minutes and mean is slightly 1.76 precentage away from three distribution making it a slightly normal bell curve. There is correlation that shows one variable increases and the other variable decreases lightly. It is not constant for losing and winning for minutes in games. For example, for loses is 2 minutes apart from the winning stream making the variable 24 to 22.
 
 #### Chidi_eda.ipynb 
 
@@ -56,6 +57,10 @@ How have Brunson’s scoring trends evolved throughout the 2024-2025 regular sea
 
 #### Jaron_eda.ipynb 
 
+Which offensive stat has the highest positive correlation on Jalen Brunson's +/- ; Pts, 2p, 3p or Ast? - Jaron
+I set out to find out what offensive stat most effected Jalen Brunson's +/-; assists, points, two point shots made or three point shots made. I calculated Pearson's r for each stat and they were .2 for assists which is a low correlation, -.06 for points which is no correlation, -.22 for two pointers which is low, and .3 for three pointers which is a medium correlation.
+The strongest relationship with +/- was 3 pointers which is kind of surprising. Brunson is a %38 3 point shooter which is good but not great, in comparison with his 2 point makes, which have a negative correlation and Brunson shoots %54 there. Obviously threes are worth more than twos but it's still surprising.
+My recommendation for Jalen is to shoot more 3 point shots in general and shoot more 2 point shots when he plays the sixers(my team!).
 
 #### Manuel_eda.ipynb
 Does Brunson perform better at home or on the road?
@@ -63,5 +68,9 @@ Based on the game-by-game data from Jalen Brunson’s 2024–2025 NBA season, th
 
 #### Mei_eda.ipynb 
 
-Is there a relationship between Brunson’s performance (field goal, field goal attempts, free throws) and the outcome of the game? 
+Is there a relationship between Brunson’s performance (field goal%, game score) and the outcome of the game?
+Field Goal %
+The average of Brunson's field goal percent is a 48.9% in wins and a 47.4% in losses. This suggests that Brunson's field goal percentage doesn't necessarily correlate with the Knicks winning. The box plot grouped by game outcome shows there is a wider spread during the wins (Q1 - 40% and Q3 - 60% vs. Q1 40% - Q3 - 50%) in the field goal percentage which may indicate that the Knicks are able to win even when Brunson isn't making his shots.
+Game Score:
+The average of Brunson's game score is a 21 in wins compared to 18 in losses. This suggests that Brunson's overall estimated contribution is generally higher in the games where the Knicks win. The interquartile range for wins (13.3-28) is also slightly higher than for losses (12.3-22.9) which may indicate that when he performs well overall, the Knicks tend to win.
 
