@@ -68,9 +68,11 @@ Based on the game-by-game data from Jalen Brunson’s 2024–2025 NBA season, th
 
 #### Mei_eda.ipynb 
 
-Is there a relationship between Brunson’s performance (field goal%, game score) and the outcome of the game?
+s there a relationship between Brunson’s performance (field goal, field goal%, game score) and the outcome of the game?
+Field Goals
+The average of Brunson's field goals made is 9.2 in losses and a 8.875 in wins. This suggests that the number of field goals Brunson makes doesn't necessarily correlate with the Knicks winning. The box plot grouped by game outcome shows that the interquartile range for wins is wider (6-12) compared to losses (8 - 10) which may indicate that the Knicks are able to win even when Brunson makes fewer field goals.
 Field Goal %
-The average of Brunson's field goal percent is a 48.9% in wins and a 47.4% in losses. This suggests that Brunson's field goal percentage doesn't necessarily correlate with the Knicks winning. The box plot grouped by game outcome shows there is a wider spread during the wins (Q1 - 40% and Q3 - 60% vs. Q1 40% - Q3 - 50%) in the field goal percentage which may indicate that the Knicks are able to win even when Brunson isn't making his shots.
+The average of Brunson's field goal percent is a 48.9% in wins and a 47.4% in losses. This suggests that Brunson's shooting efficiency doesn't strongly correlate with the Knicks winning. The box plot grouped by game outcome shows there is a wider spread in wins (37% - 58%) compared to losses (39% - 53%) in the field goal percentage which may indicate that the Knicks are able to win even when Brunson is missing his shots.
 Game Score:
 The average of Brunson's game score is a 21 in wins compared to 18 in losses. This suggests that Brunson's overall estimated contribution is generally higher in the games where the Knicks win. The interquartile range for wins (13.3-28) is also slightly higher than for losses (12.3-22.9) which may indicate that when he performs well overall, the Knicks tend to win.
-
+Although Brunson's shooting performance doesn't show a strong correlation with winning, his overall performance (game score) which includes other stats like assists, rebounds, steals etc. tends to be higher in the games where the Knicks win. The Knicks can win even when he's less consistent in scoring but may still rely on his overall performance.
