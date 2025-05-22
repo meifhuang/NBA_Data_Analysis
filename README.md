@@ -56,7 +56,6 @@ How have Brunson’s scoring trends evolved throughout the 2024-2025 regular sea
 
 #### Jaron_eda.ipynb 
 
-Is there a relationship between Brunson’s steals and his fouls per game? - Jaron 
 
 #### Manuel_eda.ipynb
 Does Brunson perform better at home or on the road?
@@ -64,4 +63,5 @@ Does Brunson perform better at home or on the road?
 #### Mei_eda.ipynb 
 
 Is there a relationship between Brunson’s performance (field goal, field goal attempts, free throws) and the outcome of the game? 
+
 
