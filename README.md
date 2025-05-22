@@ -64,7 +64,7 @@ My recommendation for Jalen is to shoot more 3 point shots in general and shoot 
 
 #### Manuel_eda.ipynb
 Does Brunson perform better at home or on the road?
-Based on the game-by-game data from Jalen Brunson’s 2024–2025 NBA season, the analysis shows that Brunson performs better in home games compared to road games. When the average of key performance stats showed, the results was that it showed higher numbers during home games in every category such as points, assists, and rebounds compared to when he played away games. This generally means that Brunson is a more efficient player when he has home court advantage than when he is away.
+Based on the game-by-game data from Jalen Brunson’s 2024–2025 NBA season, the analysis shows that Brunson performs better in Road games compared to Home games. When the average of key performance stats showed, the results was that it showed higher numbers during Road games category such as points, and rebounds compared to when he played Home games. However when Brunson plays at Home his assist total was higher. This means that Brunson is an overall efficient player on the Road in points and rebounds but a better distrubutor of the ball to his teammates when he is at Home.
 
 #### Mei_eda.ipynb 
 
