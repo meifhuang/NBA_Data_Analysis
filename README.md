@@ -52,6 +52,7 @@ Is there a relationship between Brunson’s play time (rounded down to minutes) 
 #### Chidi_eda.ipynb 
 
 How have Brunson’s scoring trends evolved throughout the 2024-2025 regular season?
+ Answer: For the 2024-25 NBA season, my visualization shows that Jalen Brunson's points scored remained consistent throughout the season, with an average of 26 points per game, with the highest points made in a game being 44 points total. The visualization does show a sharp decrease in points made, which coincides with an injury Jalen sustained in March, which made him sit out for a while in order to heal. I can infer from the data that due to the average points made per game, Jalen maintains a consistent level of performance and effort, which shows he is a player that can be relied upon to deliver for his team.
 
 #### Jaron_eda.ipynb 
 
