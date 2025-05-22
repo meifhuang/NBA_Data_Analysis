@@ -59,6 +59,7 @@ Is there a relationship between Brunson’s steals and his fouls per game? - Jar
 
 #### Manuel_eda.ipynb
 Does Brunson perform better at home or on the road?
+Based on the game-by-game data from Jalen Brunson’s 2024–2025 NBA season, the analysis shows that Brunson performs better in home games compared to road games. When the average of key performance stats showed, the results was that it showed higher numbers during home games in every category such as points, assists, and rebounds compared to when he played away games. This generally means that Brunson is a more efficient player when he has home court advantage than when he is away.
 
 #### Mei_eda.ipynb 
 
