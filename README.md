@@ -68,7 +68,7 @@ Based on the game-by-game data from Jalen Brunson’s 2024–2025 NBA season, th
 
 #### Mei_eda.ipynb 
 
-s there a relationship between Brunson’s performance (field goal, field goal%, game score) and the outcome of the game?
+Is there a relationship between Brunson’s performance (field goal, field goal%, game score) and the outcome of the game?
 Field Goals
 The average of Brunson's field goals made is 9.2 in losses and a 8.875 in wins. This suggests that the number of field goals Brunson makes doesn't necessarily correlate with the Knicks winning. The box plot grouped by game outcome shows that the interquartile range for wins is wider (6-12) compared to losses (8 - 10) which may indicate that the Knicks are able to win even when Brunson makes fewer field goals.
 Field Goal %
