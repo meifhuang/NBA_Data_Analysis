@@ -16,10 +16,9 @@ Column descriptions for the dataset is listed below:
 * FG% - Field goal percentage
 * 3P - 3 point field goals
 * 3PA - 3 point field goal attempts
-* 3P% - 3 point field goal attempts (3P / 3PA)
 * 2P - 2 point field goals
 * 2PA - 2 point field goal attempts
-* 2P% - 2 point field goal percentage (2P / 2PA)
+* 2P% - 2 point field goal percentage
 * eFG% - effective field goal percentage
 * FT - free throws
 * FTA - free throws attempts
@@ -53,15 +52,16 @@ Is there a relationship between Brunson’s play time (rounded down to minutes) 
 #### Chidi_eda.ipynb 
 
 How have Brunson’s scoring trends evolved throughout the 2024-2025 regular season?
+ Answer: For the 2024-25 NBA season, my visualization shows that Jalen Brunson's points scored remained consistent throughout the season, with an average of 26 points per game, with the highest points made in a game being 44 points total. The visualization does show a sharp decrease in points made, which coincides with an injury Jalen sustained in March, which made him sit out for a while in order to heal. I can infer from the data that due to the average points made per game, Jalen maintains a consistent level of performance and effort, which shows he is a player that can be relied upon to deliver for his team.
 
 #### Jaron_eda.ipynb 
 
-Which offensive stat has the highest positive correlation on Jalen Brunson's +/-; Pts, 2p, 3p and Ast?
 
 #### Manuel_eda.ipynb
 Does Brunson perform better at home or on the road?
+Based on the game-by-game data from Jalen Brunson’s 2024–2025 NBA season, the analysis shows that Brunson performs better in home games compared to road games. When the average of key performance stats showed, the results was that it showed higher numbers during home games in every category such as points, assists, and rebounds compared to when he played away games. This generally means that Brunson is a more efficient player when he has home court advantage than when he is away.
 
 #### Mei_eda.ipynb 
 
-Is there a relationship between Brunson’s performance (field goal, field goal%, free throws, game score) and the outcome of the game? 
+Is there a relationship between Brunson’s performance (field goal, field goal attempts, free throws) and the outcome of the game? 
 
